@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\BasicsofCSharp\\BasicsofCSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\BasicsofCSharp\\BasicsofCSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\BasicsofCSharp\\BasicsofCSharp.csproj",
+        "projectName": "BasicsofCSharp",
+        "projectPath": "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\BasicsofCSharp\\BasicsofCSharp.csproj",
+        "packagesPath": "C:\\Users\\kushwk1\\.nuget\\packages\\",
+        "outputPath": "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\BasicsofCSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kushwk1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.dell.com/artifactory/api/nuget/osc-1001661-nuget-prd-virtual": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.212\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

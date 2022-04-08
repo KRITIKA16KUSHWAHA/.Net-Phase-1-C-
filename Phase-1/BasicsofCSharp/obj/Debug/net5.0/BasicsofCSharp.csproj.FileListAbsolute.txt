@@ -1,0 +1,16 @@
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\bin\Debug\net5.0\BasicsofCSharp.exe
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\bin\Debug\net5.0\BasicsofCSharp.deps.json
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\bin\Debug\net5.0\BasicsofCSharp.runtimeconfig.json
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\bin\Debug\net5.0\BasicsofCSharp.runtimeconfig.dev.json
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\bin\Debug\net5.0\BasicsofCSharp.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\bin\Debug\net5.0\ref\BasicsofCSharp.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\bin\Debug\net5.0\BasicsofCSharp.pdb
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\obj\Debug\net5.0\BasicsofCSharp.csprojAssemblyReference.cache
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\obj\Debug\net5.0\BasicsofCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\obj\Debug\net5.0\BasicsofCSharp.AssemblyInfoInputs.cache
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\obj\Debug\net5.0\BasicsofCSharp.AssemblyInfo.cs
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\obj\Debug\net5.0\BasicsofCSharp.csproj.CoreCompileInputs.cache
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\obj\Debug\net5.0\BasicsofCSharp.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\obj\Debug\net5.0\ref\BasicsofCSharp.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\obj\Debug\net5.0\BasicsofCSharp.pdb
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BasicsofCSharp\obj\Debug\net5.0\BasicsofCSharp.genruntimeconfig.cache

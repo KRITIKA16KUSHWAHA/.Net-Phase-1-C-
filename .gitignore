@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Phase-1/.vs/Phase-1
+/Phase-1/BasicsofCSharp/bin/Debug/net5.0
+/Phase-1/DSA/bin/Debug/net5.0

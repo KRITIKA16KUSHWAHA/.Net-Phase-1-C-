@@ -1,0 +1,16 @@
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\bin\Debug\net5.0\DSA.exe
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\bin\Debug\net5.0\DSA.deps.json
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\bin\Debug\net5.0\DSA.runtimeconfig.json
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\bin\Debug\net5.0\DSA.runtimeconfig.dev.json
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\bin\Debug\net5.0\DSA.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\bin\Debug\net5.0\ref\DSA.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\bin\Debug\net5.0\DSA.pdb
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\obj\Debug\net5.0\DSA.csprojAssemblyReference.cache
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\obj\Debug\net5.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\obj\Debug\net5.0\DSA.AssemblyInfoInputs.cache
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\obj\Debug\net5.0\DSA.AssemblyInfo.cs
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\obj\Debug\net5.0\DSA.csproj.CoreCompileInputs.cache
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\obj\Debug\net5.0\DSA.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\obj\Debug\net5.0\ref\DSA.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\obj\Debug\net5.0\DSA.pdb
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\DSA\obj\Debug\net5.0\DSA.genruntimeconfig.cache
