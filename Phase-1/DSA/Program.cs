@@ -11,7 +11,9 @@ namespace DSA
             // new Queue().Do();
             //new LinkedList().Do();
 
-            LinearSearch.Do();
+            //LinearSearch.Do();
+            //BinarySearch.Do();
+            BubbleSort.Do();
         }
     }
 }
