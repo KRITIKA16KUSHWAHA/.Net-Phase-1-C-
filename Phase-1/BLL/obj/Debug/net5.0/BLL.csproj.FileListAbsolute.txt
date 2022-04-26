@@ -1,0 +1,12 @@
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\bin\Debug\net5.0\BLL.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\bin\Debug\net5.0\BLL.pdb
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\obj\Debug\net5.0\BLL.csprojAssemblyReference.cache
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\obj\Debug\net5.0\BLL.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\DELL FSD-NET\.Net-Phase-1-C-\Phase-1\BLL\obj\Debug\net5.0\BLL.pdb

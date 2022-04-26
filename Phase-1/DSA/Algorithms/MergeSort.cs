@@ -61,7 +61,7 @@ namespace DSA.Algorithms
             i = 0; j = 0;
             int k = left;
 
-            while(i<leftArrayLength && j < leftArrayLength)
+            while(i<leftArrayLength && j < rightArrayLength)
             {
                 if (leftArray[i] < rightArray[j])
                 {
