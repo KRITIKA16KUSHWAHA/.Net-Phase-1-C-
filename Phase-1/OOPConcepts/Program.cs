@@ -7,8 +7,9 @@ namespace OOPConcepts
     {
         static void Main(string[] args)
         {
-            Employee emp1 = new FullTimeEmployee(1, "john doe", "HR",50000, (IFinanceTeam)DependencyResolver.GetInstance("IFinanceTeam"));
+            FullTimeEmployee emp1 = new FullTimeEmployee(1, "john doe", "HR",50000, (IFinanceTeam)DependencyResolver.GetInstance("IFinanceTeam"));
             emp1.GetSalary();
+            emp1.GetBenifits("Insurance");
         }
     }
 }

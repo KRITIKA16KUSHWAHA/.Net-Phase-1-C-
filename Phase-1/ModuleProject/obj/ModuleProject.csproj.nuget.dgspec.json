@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\BasicsofCSharp\\BasicsofCSharp.csproj": {}
+    "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\ModuleProject\\ModuleProject.csproj": {}
   },
   "projects": {
-    "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\BasicsofCSharp\\BasicsofCSharp.csproj": {
+    "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\ModuleProject\\ModuleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\BasicsofCSharp\\BasicsofCSharp.csproj",
-        "projectName": "BasicsofCSharp",
-        "projectPath": "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\BasicsofCSharp\\BasicsofCSharp.csproj",
+        "projectUniqueName": "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\ModuleProject\\ModuleProject.csproj",
+        "projectName": "ModuleProject",
+        "projectPath": "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\ModuleProject\\ModuleProject.csproj",
         "packagesPath": "C:\\Users\\kushwk1\\.nuget\\packages\\",
-        "outputPath": "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\BasicsofCSharp\\obj\\",
+        "outputPath": "C:\\DELL FSD-NET\\.Net-Phase-1-C-\\Phase-1\\ModuleProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

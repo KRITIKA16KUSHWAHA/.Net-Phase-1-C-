@@ -17,19 +17,23 @@ namespace BasicsofCSharp
             // reverse.Do();
 
 
-           // new ArrayOfNumbers().Do();
+            // new ArrayOfNumbers().Do();
 
-             // new FileOperations().WriteFile();
-              //new FileOperations().UpdateFile();
+            // new FileOperations().WriteFile();
+            //new FileOperations().UpdateFile();
             //new FileOperations().ReadFile();
 
             //new FileOperations().DeleteFile();
-            new MiniProject().Project();
-            new MiniProject().AddData();
-            new MiniProject().ReadAll();
+            /*    new MiniProject().Project();
+                new MiniProject().AddData();
+                new MiniProject().ReadAll();
 
-            new MiniProject().UpdateData();
-            new MiniProject().Delete();
+                new MiniProject().UpdateData();
+                new MiniProject().Delete();*/
+
+            new PhaseOneProject().CreateFile();
+            new PhaseOneProject().AddTeacherData();
+            new PhaseOneProject().ReadAllTeacherData();
 
 
 

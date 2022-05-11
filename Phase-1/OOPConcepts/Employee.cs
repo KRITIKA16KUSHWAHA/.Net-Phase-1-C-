@@ -21,7 +21,35 @@ namespace OOPConcepts
             FinanceTeam = fteam;
         }
 
-        public int ID { get; set; }
+        private int _ID;
+        public int ID
+        { 
+            get 
+            {
+                //If user is valid
+                 return this._ID;
+               
+            }
+
+            set
+            {
+                if (!this.Validate(value))
+                {
+                    throw new Exception("invalid value");
+                }
+                this._ID = ID;
+                
+            }
+        }
+        private bool Validate(int id)
+        {
+            //Db Calls
+            if (id < 1)
+            {
+                return false;
+            }
+            return true;
+        }
         public string Name { get; set; }
         public string Department { get; set; }
 
@@ -32,12 +60,12 @@ namespace OOPConcepts
             ITTeam.SolveProblem();
         }
 
-        public void GetSalary()
+        public virtual void GetSalary()
         {
             //get salary
 
             Console.WriteLine(this.ID);
-            Console.WriteLine("Salary Credited");
+            Console.WriteLine("Salary Credited in base");
             FinanceTeam.TakeRequestFromEmployee();
 
         }
